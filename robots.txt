@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scieverj.github.io/sitemap
+Sitemap: https://scieverj.github.io/app/sitemap
+Sitemap: https://scieverj.github.io/assets/sitemap
+Sitemap: https://scieverj.github.io/css/sitemap
+Sitemap: https://scieverj.github.io/includes/sitemap
+Sitemap: https://scieverj.github.io/item/sitemap
+Sitemap: https://scieverj.github.io/src/sitemap
